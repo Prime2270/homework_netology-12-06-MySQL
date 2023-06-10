@@ -15,10 +15,10 @@
 
 ### Задание 2 Выполните конфигурацию master-slave репликации, примером можно пользоваться из лекции.
 
-![job2]()
+![job2](https://github.com/Prime2270/homework_netology-12-06-MySQL/blob/main/screenshots/job2.png)
 
-![job2(status)]()
+![job2(status)](https://github.com/Prime2270/homework_netology-12-06-MySQL/blob/main/screenshots/job2%20(status).png)
 
-![job2(master)]()
+![job2(master)](https://github.com/Prime2270/homework_netology-12-06-MySQL/blob/main/screenshots/job2%20(master).png)
 
-![job2(slave)]()
+![job2(slave)](https://github.com/Prime2270/homework_netology-12-06-MySQL/blob/main/screenshots/job2%20(slave).png)
